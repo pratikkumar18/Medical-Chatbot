@@ -1,4 +1,5 @@
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+<img width="1570" height="956" alt="image" src="https://github.com/user-attachments/assets/eb207a1f-89d7-4970-a045-1bcf73537899" />
 
 # How to run?
 ### STEPS:
